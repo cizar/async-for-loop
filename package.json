@@ -1,0 +1,20 @@
+{
+  "name": "async-for-loop",
+  "version": "1.0.0",
+  "description": "Async for (var i = 0; i < iterations; i++) loop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cizar/async-for-loop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cizar/async-for-loop/issues"
+  },
+  "homepage": "https://github.com/cizar/async-for-loop#readme"
+}

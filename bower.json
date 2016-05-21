@@ -1,0 +1,17 @@
+{
+  "name": "async-for-loop",
+  "description": "Async for (var i = 0; i < iterations; i++) loop",
+  "main": "index.js",
+  "authors": [
+    "Cesar Kastli <cesarkastli@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cizar/async-for-loop",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
